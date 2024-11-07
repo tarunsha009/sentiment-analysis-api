@@ -1,5 +1,15 @@
 # Sentiment Analysis API
 
+![Python](https://img.shields.io/badge/Python-3.12%2B-blue)
+![Flask](https://img.shields.io/badge/Framework-Flask-green)
+![AI](https://img.shields.io/badge/Machine%20Learning-AI-yellow)
+![Natural Language Processing](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-orange)
+![Sentiment Analysis](https://img.shields.io/badge/Sentiment%20Analysis-Project-lightblue)
+![GenAI](https://img.shields.io/badge/Generative%20AI-GenAI-blueviolet)
+![License](https://img.shields.io/badge/License-MIT-blue)
+
+
+
 This project is a **Sentiment Analysis API** built with Flask and Flask-RESTx. It classifies input text into **Positive**, **Neutral**, or **Negative** sentiment categories, using a trained machine learning model.
 
 ---
