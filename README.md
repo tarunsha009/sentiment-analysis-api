@@ -37,7 +37,7 @@ The API is designed to classify text-based inputs by sentiment, helping users an
 
 ### 1. Clone the Repository
    ```bash
-   git clone https://github.com/your-username/sentiment-analysis-api.git
+   git clone https://github.com/tarunsha009/sentiment-analysis-api
    cd sentiment-analysis-api
    ```
 
